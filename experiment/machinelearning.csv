@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main focus of Large Language Models (LLMs)?,a: Image processing | b: Language processing | c: Speech recognition | d: Data visualization,b
+Which model was released in 2020 and contains 175 billion parameters?,a: GPT-1 | b: GPT-2 | c: GPT-3 | d: GPT-4,c
+What type of learning techniques are used to train Large Language Models?,a: Supervised learning | b: Unsupervised learning | c: Reinforcement learning | d: Semi-supervised learning,b
+Which component of Large Language Model architecture is responsible for capturing dependencies and relationships?,a: Feedforward layers | b: Embedding layers | c: Attention layers | d: Output generation,c
+What determines the architecture of a Large Language Model?,a: Color of the text | b: Objective of the model design | c: Size of the paper | d: Number of words in the text,b
