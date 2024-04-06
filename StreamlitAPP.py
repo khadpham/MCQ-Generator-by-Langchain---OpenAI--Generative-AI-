@@ -23,7 +23,7 @@ with st.form("user_inputs"):
     uploaded_file=st.file_uploader("Upload a PDF or txt file")
 
     # Input fields
-    mcq_count=st.number_input("No. of MCQs", min_value=3, max_value=5)
+    mcq_count=st.number_input("No. of MCQs", min_value=3, max_value=10)
 
     # Subject
     subject = st.text_input("Insert Subject", max_chars=20)
