@@ -12,7 +12,7 @@ from langchain_community.callbacks import get_openai_callback
 
 # loading json file
 with open('./Response.json', 'r') as file:
-    RESPONSE_JSON= json.load(file)
+    RESPONSE_JSON = json.load(file)
 
 # create a title for the app
 st.title("MCQs Creator Application with LangChain 🐦⛓️✔️📄")
